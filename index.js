@@ -40,20 +40,3 @@ updateClock( )
 }
 
 updateClock();
-function nameoffpass(pswrd){
-
-if(password.length === 8){
-
-return"password is strong "
-}
-else{
-return"pasword is week"
-
-}
-
-}
-
-let password = "akash@123"
-nameoffpass(password);
-
-let akash = password
